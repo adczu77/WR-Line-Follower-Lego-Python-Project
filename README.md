@@ -4,5 +4,5 @@ Projekt Line Follower'a z przedmiotu WR, edycja 22Z.
 Restriced
 
 # Autorzy
-Adam Czubak
+Adam Czubak </br>
 Mikołaj Chomanski
